@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">숙제_0414</string>
+    <string name="title"> "<b>"카카오 계정으로 회원가입"</b>" 하시면 지상파 포함 50여개 LIVE 채널을 "<b>"무료"</b>"로 즐길 수 있어요 <font color="#7848d5"><font size="10">\u25CF</font></font> </string>
+    <string name="registerInfo">이벤트 참여 등 회원 확인을 위해 고객님의 이메일 주소를 입력해주세요</string>
+    <string name="warning_kakao_Id">카카오 계정으로 POOQ 가입 시, 카카오 서비스를 탈퇴하실 경우 POOQ 이용에 제한이 있을 수 있습니다.</string>
+
+</resources>
