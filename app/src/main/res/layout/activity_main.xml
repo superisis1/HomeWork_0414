@@ -54,6 +54,7 @@
             android:orientation="vertical">
 
             <EditText
+                android:id="@+id/nameText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_text_bg"
@@ -63,6 +64,7 @@
                 android:textSize="12sp" />
 
             <EditText
+                android:id="@+id/emailText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -106,6 +108,7 @@
                     android:orientation="horizontal">
 
                     <CheckBox
+                        android:id="@+id/allCheck"
                         android:layout_width="30dp"
                         android:layout_height="30dp" />
 
@@ -130,6 +133,7 @@
                     android:orientation="horizontal">
 
                     <CheckBox
+                        android:id="@+id/check1"
                         android:layout_width="30dp"
                         android:layout_height="30dp" />
 
@@ -158,6 +162,7 @@
                     android:orientation="horizontal">
 
                     <CheckBox
+                        android:id="@+id/check2"
                         android:layout_width="30dp"
                         android:layout_height="30dp" />
 
@@ -186,6 +191,7 @@
                     android:orientation="horizontal">
 
                     <CheckBox
+                        android:id="@+id/check3"
                         android:layout_width="30dp"
                         android:layout_height="30dp" />
 
@@ -214,6 +220,7 @@
                     android:orientation="horizontal">
 
                     <CheckBox
+                        android:id="@+id/check4"
                         android:layout_width="30dp"
                         android:layout_height="30dp" />
 
@@ -246,6 +253,7 @@
     </LinearLayout>
 
     <Button
+        android:id="@+id/registerBtn"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="12dp"
