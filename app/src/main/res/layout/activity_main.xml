@@ -28,11 +28,6 @@
                 android:textColor="@color/black"
                 android:textSize="20sp" />
 
-            <ImageView
-                android:layout_width="10dp"
-                android:layout_height="10dp"
-                android:src="@mipmap/ic_launcher" />
-
         </LinearLayout>
 
         <!--아이콘 이미지-->
@@ -109,7 +104,8 @@
                     <CheckBox
                         android:id="@+id/allCheck"
                         android:layout_width="30dp"
-                        android:layout_height="30dp" />
+                        android:layout_height="30dp"
+                        android:checked="true"/>
 
                     <TextView
                         android:layout_width="0dp"
@@ -134,7 +130,8 @@
                     <CheckBox
                         android:id="@+id/check1"
                         android:layout_width="30dp"
-                        android:layout_height="30dp" />
+                        android:layout_height="30dp"
+                        android:checked="true"/>
 
                     <TextView
                         android:layout_width="0dp"
@@ -163,7 +160,8 @@
                     <CheckBox
                         android:id="@+id/check2"
                         android:layout_width="30dp"
-                        android:layout_height="30dp" />
+                        android:layout_height="30dp"
+                        android:checked="true"/>
 
                     <TextView
                         android:layout_width="0dp"
@@ -192,7 +190,8 @@
                     <CheckBox
                         android:id="@+id/check3"
                         android:layout_width="30dp"
-                        android:layout_height="30dp" />
+                        android:layout_height="30dp"
+                        android:checked="true"/>
 
                     <TextView
                         android:layout_width="0dp"
@@ -221,7 +220,8 @@
                     <CheckBox
                         android:id="@+id/check4"
                         android:layout_width="30dp"
-                        android:layout_height="30dp" />
+                        android:layout_height="30dp"
+                        android:checked="true"/>
 
                     <TextView
                         android:layout_width="0dp"
